@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mikhacavin
+- 👀 I’m interested in Web Technology
+- 🌱 I’m currently learning Javascript Framework
+- 📫 How to reach me @mikhacavin ( on every social media )

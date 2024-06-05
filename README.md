@@ -1,4 +1,4 @@
-<p align="center"><a href="https://mikhacavin.com">Hello! I'm Mikha Cavin</a></p>
+<p align="center">Hello! <a href="https://mikhacavin.com">I'm Mikha Cavin.</a></p>
 
 <br />
 
@@ -17,7 +17,6 @@ I'm a I'm a Digital Craftman from Indonesia 🇮🇩
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
@@ -27,5 +26,5 @@ I'm a I'm a Digital Craftman from Indonesia 🇮🇩
 <br />
 
 <a href="https://twitter.com/mikhacavin">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Mikha Cavin | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>

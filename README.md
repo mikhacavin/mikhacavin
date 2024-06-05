@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io">Hello! I'm Mikha Cavin</a></p>
+<p align="center"><a href="https://mikhacavin.com">Hello! I'm Mikha Cavin</a></p>
 
 <br />
 

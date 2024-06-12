@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a I'm a Digital Craftman from Indonesia 🇮🇩
+I'm a Digital Craftman from Indonesia 🇮🇩
 
 **About me**
 

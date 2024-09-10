@@ -6,9 +6,9 @@ I'm a Digital Craftman from Indonesia 🇮🇩
 
 **About me**
 
-- 💼 IT App Support at [Accelist Lentera Indonesia](http://accelist.com/)
+- 💼 Self Employe at [Eloistic Indonesia](http://eloistic.com/)
 
-- 📈 Currently Learning C# stuff
+- 📈 Currently Learning Marketing stuff
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
